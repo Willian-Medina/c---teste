@@ -35,3 +35,10 @@ Namespace --------------------------------------------
 Os namespace são organizadores, no c#, feito com a sintaxe:
 
 NAMESPACE NOME ; (Sem chaves, ou parenteses)
+
+
+
+TIPOS DE VALOR ANULADO _______________________________________
+se caso queira utulizar um valor anulado, dentro da variável, deve-se usar o ? depois do tipo;
+
+int? NOME = VALOR (int? - valor anulado)
