@@ -1,0 +1,14 @@
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\bin\Debug\net7.0\dotnet.exe
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\bin\Debug\net7.0\dotnet.deps.json
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\bin\Debug\net7.0\dotnet.runtimeconfig.json
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\bin\Debug\net7.0\dotnet.dll
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\bin\Debug\net7.0\dotnet.pdb
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\dotnet.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\dotnet.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\dotnet.dll
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\refint\dotnet.dll
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\dotnet.pdb
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\dotnet.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Documentos\Willian\dotnet\obj\Debug\net7.0\ref\dotnet.dll
